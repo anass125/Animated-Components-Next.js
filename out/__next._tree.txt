@@ -1,0 +1,3 @@
+:HL["/Animated-Components-Next.js/_next/static/chunks/0b_jbsh6a2fo1.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"k_Z50PembBP529-8fu1sN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
